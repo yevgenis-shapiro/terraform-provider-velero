@@ -20,16 +20,6 @@ Velero is an open source tool to safely backup and restore, perform disaster rec
 - [AWS CSI Driver](https://docs.aws.amazon.com/eks/latest/userguide/ebs-csi.html)
 - [Cassandra Example](https://velero.io/blog/velero-v1-1-stateful-backup-vsphere/)
 
-## Installation
-
-```sh
-$ brew install velero
-$ helm repo add vmware-tanzu https://vmware-tanzu.github.io/helm-charts
-```
-
-## Documentation
-
-- [TFLint Rules](https://github.com/terraform-linters/tflint/tree/master/docs/rules)
 
 ## Usage example
 
