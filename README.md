@@ -1,6 +1,7 @@
 # Velero | AWS EKS Kubernetes
 
 Velero is an open source tool to safely backup and restore, perform disaster recovery, and migrate Kubernetes cluster resources and persistent volumes
+![1_aIPW0mLbBScVjG4cewjdNw](https://github.com/user-attachments/assets/40d06655-0c4a-40b4-b157-c055e9e45aab)
 
 ---
 
